@@ -190,6 +190,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dimagisihilel&theme=tokyonight&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
+<br>
+
+<!-- Typing SVG for thanks giving -->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?weight=900&size=20&pause=1000&color=b392ac&center=true&vCenter=true&width=700&lines=Thank+You+for+Visiting+My+Profile!+🚀)](https://git.io/typing-svg)
+
+</div>
+
+
+
+
+
+
 
 
 
