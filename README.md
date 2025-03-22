@@ -12,6 +12,42 @@
 
 <br>
 
+<!-- dev oth -->
+<details open>
+<summary><h2>${\Large \textbf{
+\color[rgb]{1,0.39,0.39}💡 
+\color[rgb]{1,0.63,0.31}M
+\color[rgb]{1,0.78,0.31}y 
+\color[rgb]{0.47,0.86,0.47}D
+\color[rgb]{0.31,0.63,1}e
+\color[rgb]{0.51,0.51,0.94}v
+\color[rgb]{0.71,0.47,0.94}e
+\color[rgb]{1,0.39,0.39}l
+\color[rgb]{1,0.63,0.31}o
+\color[rgb]{1,0.78,0.31}p
+\color[rgb]{0.47,0.86,0.47}e
+\color[rgb]{0.31,0.63,1}r
+\color[rgb]{0.51,0.51,0.94}'s
+\color[rgb]{0.71,0.47,0.94} 
+\color[rgb]{1,0.39,0.39}O
+\color[rgb]{1,0.63,0.31}a
+\color[rgb]{1,0.78,0.31}t
+\color[rgb]{0.47,0.86,0.47}h}}$
+</h2></summary>
+
+```python
+while True:
+    learn()
+    build()
+    debug()
+    innovate()
+    share_knowledge()
+```
+
+</details>
+
+<br>
+<br>
 
 <!-- connect me (social media) -->
 <div align="center">
