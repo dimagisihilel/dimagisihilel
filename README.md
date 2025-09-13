@@ -35,10 +35,16 @@
   
 </div>
 
+
+
 <!-- profile count -->
 <p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" style="margin-right: 10px;">
   <img src="https://komarev.com/ghpvc/?username=dimagisihilel&label=Profile%20views&color=0e75b6&style=flat" alt="dimagisihilel" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" style="margin-right: 10px;">
 </p>
+
+
 
 
 <!-- TECH STACK -->
@@ -199,6 +205,9 @@
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?weight=900&size=20&pause=1000&color=b392ac&center=true&vCenter=true&width=700&lines=Thank+You+for+Visiting+My+Profile!+🚀)](https://git.io/typing-svg)
+
+<!-- Have a good day sticker -->
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZ5dnowMDI5d3Awa3RscHB6MGkzamVhY2F0ejk1eDA2ZDlpNzU1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/eBjrOYUT81AtMqX844/giphy.gif" width="200" height="200">
 
 </div>
 
